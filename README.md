@@ -2,5 +2,7 @@ Hey guys i wanted to share with you I was able to make this project come truth a
 
 <img width="2032" height="1107" alt="image" src="https://github.com/user-attachments/assets/d9ac85f6-af3e-42c9-8c87-c0433fb6bdad" />
 
+<img width="1891" height="951" alt="image" src="https://github.com/user-attachments/assets/418e7d42-190a-44ed-8190-5996d8eb4723" />
+
 
 <img width="500" height="226" alt="image" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" />
